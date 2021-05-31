@@ -1,0 +1,16 @@
+{
+  "name": "ysx-utils",
+  "version": "1.0.1",
+  "description": "常用方法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tiehongji@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "dayjs-plugin-utc": "^0.1.2",
+    "file-saver": "^2.0.5"
+  }
+}
